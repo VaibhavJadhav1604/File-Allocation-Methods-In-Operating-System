@@ -1,1 +1,1 @@
-# Memory-Allocation-In-Operating-System
+# File-Allocation-Methods-In-Operating-System
